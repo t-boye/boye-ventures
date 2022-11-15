@@ -1,4 +1,4 @@
-# Mini-Voting-System-Using-C-Language
+# Updated Mini-Voting-System-Using-C-Language
 
     -> Allows us to set up a flexible and trustworthy voting system now in the moderm world
     -> Applicable for large as well as small group of people e.g. a batch, a class.
